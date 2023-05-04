@@ -1,5 +1,3 @@
-![trip](./assets/trip.jpg)
-
 # <div align="center">Welcome to my GitHub !</div>
 ---
 
