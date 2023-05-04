@@ -5,9 +5,8 @@
 
 - Student at IIT Kharagpur, pursuing B.Tech in Computer Science and Engineering
 - Exploring languages and frameworks, along with ML and DL
-- Competitive Programming enthusiast
 - [![Badge](https://cp-logo.vercel.app/codeforces/Spartanlord)](https://www.codeforces.com/profile/spartanlord) 
-[![Badge](https://cp-logo.vercel.app/codechef/rpriydarshi)](https://www.codechef.com/users/rpriydarshi)
+[![Badge](https://cp-logo.vercel.app/codechef/rpriydarshi)](https://www.codechef.com/users/rpriydarshi) Competitive Programming enthusiast
 
 ---
 
