@@ -15,7 +15,7 @@
 [![Badge](https://cp-logo.vercel.app/codechef/rpriydarshi)](https://www.codechef.com/users/rpriydarshi)
 <!-- [![wakatime](https://wakatime.com/badge/user/32380419-5fe6-466b-85d7-5d0b580849a5.svg)](https://wakatime.com/@32380419-5fe6-466b-85d7-5d0b580849a5) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&hide=html,%20jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -42,11 +42,12 @@ JSON   0 secs          ███████████████████
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priydarshiroopak/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/priydarshiroopak/)
 
-<!-- ---
-
-## Ref
+<details>
+<summary>:eyes: References</summary>
 
 - Wakatime stats update- [athul/waka-readme](https://github.com/athul/waka-readme)
 - Top languages- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - 1x Engineer badge- [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer/blob/main/README.md#badges)
-- Profile views- [yhype](https://yhype.me/) -->
+- Profile views- [yhype](https://yhype.me/)
+
+</details>
