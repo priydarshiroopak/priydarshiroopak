@@ -29,7 +29,7 @@ JSON   0 secs          ███████████████████
 
 ## 💻 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/32380419-5fe6-466b-85d7-5d0b580849a5.svg)](https://wakatime.com/@32380419-5fe6-466b-85d7-5d0b580849a5)
 
