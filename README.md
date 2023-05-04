@@ -7,7 +7,7 @@
 
 - Student at IIT Kharagpur, pursuing B.Tech in Computer Science and Engineering
 - Exploring languages and frameworks, along with ML and DL
-- Competitive Programmer
+- Competitive Programming enthusiast
 
 ---
 
@@ -35,12 +35,14 @@ JSON   0 secs          ███████████████████
 
 ---
 
-## 🤝 Badges
+## 🤝 Stalk Badges
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priydarshiroopak/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priydarshiroopak/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/priydarshiroopak/)
 
+[![Badge](https://cp-logo.vercel.app/codeforces/Spartanlord)](https://www.codeforces.com/profile/spartanlord) 
+[![Badge](https://cp-logo.vercel.app/codechef/rpriydarshi)](https://www.codechef.com/users/rpriydarshi)
 <!-- ---
 
 ## Ref
