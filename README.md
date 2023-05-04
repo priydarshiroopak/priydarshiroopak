@@ -47,7 +47,4 @@ JSON   0 secs          ███████████████████
 
 - Wakatime stats update- [athul/waka-readme](https://github.com/athul/waka-readme)
 - Top languages- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- 1x Engineer badge- [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer/blob/main/README.md#badges)
-- Profile views- [yhype](https://yhype.me/)
-
 </details>
