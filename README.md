@@ -5,8 +5,18 @@
 
 - Student at IIT Kharagpur, pursuing B.Tech in Computer Science and Engineering
 - Exploring languages and frameworks, along with ML and DL
-- [![Badge](https://cp-logo.vercel.app/codeforces/Spartanlord)](https://www.codeforces.com/profile/spartanlord) 
-[![Badge](https://cp-logo.vercel.app/codechef/rpriydarshi)](https://www.codechef.com/users/rpriydarshi) Competitive Programming enthusiast
+- Competitive Programming enthusiast
+
+---
+
+## 💻 Tech Stats
+
+[![Badge](https://cp-logo.vercel.app/codeforces/Spartanlord)](https://www.codeforces.com/profile/spartanlord) 
+[![Badge](https://cp-logo.vercel.app/codechef/rpriydarshi)](https://www.codechef.com/users/rpriydarshi)
+<!-- [![wakatime](https://wakatime.com/badge/user/32380419-5fe6-466b-85d7-5d0b580849a5.svg)](https://wakatime.com/@32380419-5fe6-466b-85d7-5d0b580849a5) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -23,14 +33,6 @@ JSON   0 secs          ███████████████████
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-## 💻 Tech Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/32380419-5fe6-466b-85d7-5d0b580849a5.svg)](https://wakatime.com/@32380419-5fe6-466b-85d7-5d0b580849a5)
 
 ---
 
