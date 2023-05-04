@@ -1,18 +1,17 @@
 ![trip](./assets/trip.jpg)
 
-# Hello there 👋
+# <div align="center">Welcome to my GitHub !</div>
+---
 
-(But where's the `higher ground` XD)
+## 👦 About Me
 
-## 🥔 About Me
-
-- Undergraduate student at IIT Kharagpur
-- Generalist programmer at the moment with experience in web development and DL/CV
-<!-- - Trying to organize my mess [here](https://sneaky-potato.github.io/) 🚀 -->
+- Student at IIT Kharagpur, pursuing B.Tech in Computer Science and Engineering
+- Exploring languages and frameworks, along with ML and DL
+- Competitive Programmer
 
 ---
 
-## 🗃️ Weekly stats
+## 📊 Weekly stats
 
 Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome [action](https://github.com/athul/waka-readme)
 
@@ -30,7 +29,9 @@ JSON   0 secs          ███████████████████
 
 ## 💻 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneaky-potato&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priydarshiroopak&layout=compact&langs_count=6&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/32380419-5fe6-466b-85d7-5d0b580849a5.svg)](https://wakatime.com/@32380419-5fe6-466b-85d7-5d0b580849a5)
 
 ---
 
@@ -39,8 +40,6 @@ JSON   0 secs          ███████████████████
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priydarshiroopak/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priydarshiroopak/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/priydarshiroopak/)
-
-[![wakatime](https://wakatime.com/badge/user/e0871c9e-5a07-4036-9354-41563cad914d.svg)](https://wakatime.com/@e0871c9e-5a07-4036-9354-41563cad914d)  
 
 <!-- ---
 
