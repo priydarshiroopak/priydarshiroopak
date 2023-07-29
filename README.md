@@ -27,11 +27,11 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2023 - To: 26 July 2023
+From: 20 July 2023 - To: 27 July 2023
 
-Python   9 hrs 17 mins   ███████████████████░░░░░░   75.43 %
-Text     1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-C++      1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Python   9 hrs 37 mins   ██████████████████░░░░░░░   71.69 %
+C++      2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Text     1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
