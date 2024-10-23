@@ -27,7 +27,7 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2024 - To: 20 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
 C++      2 hrs           ████████████▒░░░░░░░░░░░░   49.36 %
 C        1 hr 22 mins    ████████▒░░░░░░░░░░░░░░░░   33.74 %
