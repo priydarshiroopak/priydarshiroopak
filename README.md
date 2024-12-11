@@ -27,13 +27,10 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-C        1 hr 49 mins    ████████████░░░░░░░░░░░░░   48.00 %
-C++      1 hr 21 mins    █████████░░░░░░░░░░░░░░░░   35.43 %
-Other    25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Text     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C++   1 hr 21 mins    ███████████████████████░░   92.09 %
+C     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->
