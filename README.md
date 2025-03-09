@@ -27,13 +27,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 06 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-C++           1 hr 26 mins    ██████████████░░░░░░░░░░░   56.45 %
-Bash          40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-CMake         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Other         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Makefile      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
