@@ -27,13 +27,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Other         1 hr 39 mins    ██████████░░░░░░░░░░░░░░░   39.47 %
-Bash          1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
-Python        31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-HTML          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Markdown      23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Other      41 mins         ████████████████████▒░░░░   81.45 %
+TeX        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Python     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Bash       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
