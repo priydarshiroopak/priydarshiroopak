@@ -27,13 +27,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-Python     5 mins          ████████████▒░░░░░░░░░░░░   48.99 %
-Bash       3 mins          ███████░░░░░░░░░░░░░░░░░░   28.36 %
-Markdown   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-Other      1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
