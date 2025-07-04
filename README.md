@@ -27,12 +27,11 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2025 - To: 01 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Python   4 hrs 48 mins   █████████████████▒░░░░░░░   69.31 %
-JSON     1 hr 47 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-Other    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Python   2 hrs 15 mins   █████████████░░░░░░░░░░░░   51.97 %
+JSON     2 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.98 %
+Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
